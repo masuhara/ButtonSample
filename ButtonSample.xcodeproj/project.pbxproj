@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					7A16C9FC1F6BE93100025FC7 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = XFUA4YPVDB;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XFUA4YPVDB;
 				INFOPLIST_FILE = ButtonSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.co.ylab.ButtonSample;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XFUA4YPVDB;
 				INFOPLIST_FILE = ButtonSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.co.ylab.ButtonSample;
